@@ -38,6 +38,7 @@ enum
     CK_IgnoreKey = 0,
 
     /* common */
+    CK_Test,
     CK_Enter = 1,
     CK_Up,
     CK_Down,
